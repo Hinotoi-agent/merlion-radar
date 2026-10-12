@@ -1,6 +1,6 @@
 {
   "title": "Merlion Radar",
-  "updated_at": "2026-10-05T09:08:22Z",
+  "updated_at": "2026-10-12T09:16:59Z",
   "search_focus": "Singapore-first public opportunity radar for software engineering, data/AI, product, security, research, leadership, and adjacent roles across Singapore/APAC.",
   "sources": [
     "Greenhouse/GitLab",
@@ -33,146 +33,148 @@
       "source": "Greenhouse/GitLab",
       "status": "ok",
       "count": 0,
-      "seconds": 0.59
+      "seconds": 0.38
     },
     {
       "source": "Greenhouse/Stripe",
       "status": "ok",
-      "count": 44,
-      "seconds": 0.76
+      "count": 51,
+      "seconds": 0.59
     },
     {
       "source": "Greenhouse/Cloudflare",
       "status": "ok",
       "count": 0,
-      "seconds": 0.69
+      "seconds": 0.55
     },
     {
       "source": "Greenhouse/GovTech Singapore",
       "status": "ok",
-      "count": 280,
-      "seconds": 0.76
+      "count": 276,
+      "seconds": 1.8
     },
     {
       "source": "Greenhouse/OKX",
       "status": "ok",
-      "count": 145,
-      "seconds": 0.77
+      "count": 154,
+      "seconds": 0.63
     },
     {
       "source": "Greenhouse/Databricks",
       "status": "ok",
       "count": 18,
-      "seconds": 1.14
+      "seconds": 0.95
     },
     {
       "source": "Greenhouse/Figma",
       "status": "ok",
-      "count": 2,
-      "seconds": 0.38
+      "count": 1,
+      "seconds": 0.18
     },
     {
       "source": "Greenhouse/Anthropic",
       "status": "ok",
-      "count": 9,
-      "seconds": 1.31
+      "count": 10,
+      "seconds": 0.85
     },
     {
       "source": "Lever/Mistral AI",
       "status": "ok",
       "count": 0,
-      "seconds": 0.21
+      "seconds": 0.59
     },
     {
       "source": "Ashby/OpenAI",
       "status": "ok",
-      "count": 38,
-      "seconds": 0.76
+      "count": 35,
+      "seconds": 0.6
     },
     {
       "source": "Ashby/Cursor",
       "status": "ok",
       "count": 7,
-      "seconds": 0.23
+      "seconds": 0.09
     },
     {
       "source": "Ashby/Modal",
       "status": "ok",
       "count": 0,
-      "seconds": 0.14
+      "seconds": 0.04
     },
     {
       "source": "Ashby/Airwallex",
       "status": "ok",
       "count": 0,
-      "seconds": 0.48
+      "seconds": 0.24
     },
     {
       "source": "MyCareersFuture/software engineer",
       "status": "error",
       "count": 0,
       "error": "The read operation timed out",
-      "seconds": 25.45
+      "seconds": 25.67
     },
     {
       "source": "MyCareersFuture/data engineer",
-      "status": "error",
-      "count": 0,
-      "error": "The read operation timed out",
-      "seconds": 25.5
+      "status": "ok",
+      "count": 6,
+      "seconds": 26.27
     },
     {
       "source": "MyCareersFuture/machine learning engineer",
       "status": "error",
       "count": 0,
       "error": "The read operation timed out",
-      "seconds": 25.48
+      "seconds": 25.51
     },
     {
       "source": "MyCareersFuture/ai engineer",
-      "status": "ok",
-      "count": 9,
-      "seconds": 24.57
+      "status": "error",
+      "count": 0,
+      "error": "The read operation timed out",
+      "seconds": 25.56
     },
     {
       "source": "MyCareersFuture/cybersecurity engineer",
-      "status": "ok",
-      "count": 2,
-      "seconds": 21.63
-    },
-    {
-      "source": "MyCareersFuture/application security",
       "status": "error",
       "count": 0,
       "error": "The read operation timed out",
       "seconds": 25.5
     },
     {
+      "source": "MyCareersFuture/application security",
+      "status": "error",
+      "count": 0,
+      "error": "The read operation timed out",
+      "seconds": 25.57
+    },
+    {
       "source": "MyCareersFuture/product manager",
       "status": "error",
       "count": 0,
       "error": "The read operation timed out",
-      "seconds": 25.45
+      "seconds": 25.55
     },
     {
       "source": "MyCareersFuture/technical program manager",
       "status": "error",
       "count": 0,
       "error": "The read operation timed out",
-      "seconds": 25.42
+      "seconds": 25.56
     },
     {
       "source": "MyCareersFuture/ux designer",
       "status": "error",
       "count": 0,
       "error": "The read operation timed out",
-      "seconds": 25.42
+      "seconds": 25.53
     },
     {
       "source": "MyCareersFuture/platform engineer",
-      "status": "ok",
-      "count": 7,
-      "seconds": 21.89
+      "status": "error",
+      "count": 0,
+      "error": "The read operation timed out",
+      "seconds": 25.57
     },
     {
       "source": "Custom/Custom Singapore/APAC feed",
@@ -182,162 +184,18 @@
     }
   ],
   "stats": {
-    "candidates_scored": 542,
+    "candidates_scored": 540,
     "published_count": 18,
     "alert_count": 6
   },
   "alerts": [
     {
-      "title": "Senior Data Engineer, Data Platform, Singpass",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007476201?gh_jid=4007476201",
-      "source": "Greenhouse",
-      "published_at": "2026-10-05",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Data / Ai Engineering",
-        "Data Platform",
-        "Data Engineer",
-        "Product / Program Leadership",
-        "Lead"
-      ],
-      "score": 87,
-      "matched_profiles": [
-        "Software Engineering",
-        "Data / AI Engineering",
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Software Engineering, Data / AI Engineering, Product / Program Leadership; title relevance 25/100, profile relevance 72/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Data / AI Engineering, Product / Program Leadership.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs.",
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization.",
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence.",
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Lead / Senior Product Manager (MND)",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007426201?gh_jid=4007426201",
-      "source": "Greenhouse",
-      "published_at": "2026-10-01",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Lead"
-      ],
-      "score": 83,
-      "matched_profiles": [
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Lead / Senior Product Manager, Regulatory Licensing (NEA)",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4005215201?gh_jid=4005215201",
-      "source": "Greenhouse",
-      "published_at": "2026-09-28",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Lead"
-      ],
-      "score": 83,
-      "matched_profiles": [
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Lead Product Manager - Legal Case Management, Attorney-General's Chambers (AGC)",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007292201?gh_jid=4007292201",
-      "source": "Greenhouse",
-      "published_at": "2026-10-01",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Lead"
-      ],
-      "score": 83,
-      "matched_profiles": [
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
       "title": "Product Manager (Cybersecurity)",
       "company": "GovTech Singapore",
       "location": "Singapore",
       "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004104201?gh_jid=4004104201",
       "source": "Greenhouse",
-      "published_at": "2026-10-01",
+      "published_at": "2026-10-08",
       "summary": "Position Overview We are seeking a Product Manager (formerly Business Analyst also would be considered) to drive user engagement and stakeholder management for our cybersecurity solutions, working closely with the lead Product/Programme Manager. This role is instrumental in shaping product strategy, understanding user needs, measuring product impact, and tr…",
       "tags": [
         "Product / Program Leadership",
@@ -368,501 +226,7 @@
       ],
       "status_badge": "Repeated high match",
       "first_seen": "2026-06-08",
-      "last_seen": "2026-10-05",
-      "status": "Still open"
-    },
-    {
-      "title": "Principal / Lead Product Designer, TradeNet",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4001721201?gh_jid=4001721201",
-      "source": "Greenhouse",
-      "published_at": "2026-09-28",
-      "summary": "What the role is TradeNet is Singapore’s key platform that enables businesses to import, export, and move goods through one of the world’s busiest ports,currently supporting 970 Billion in annual trade revenue.. It connects traders, freight forwarders, customs officers, and multiple government agencies through a single, integrated system used for permit app…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Product / Program Leadership",
-        "Principal",
-        "Lead",
-        "Design / Ux Research",
-        "Product Designer"
-      ],
-      "score": 97,
-      "matched_profiles": [
-        "Software Engineering",
-        "Product / Program Leadership",
-        "Design / UX Research"
-      ],
-      "why_match": "Matches Software Engineering, Product / Program Leadership, Design / UX Research; title relevance 75/100, profile relevance 72/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Product / Program Leadership, Design / UX Research.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives.",
-        "Portfolio storytelling, user research synthesis, interaction flows, design systems, accessibility, and product impact measurement."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary.",
-        "Accessibility training such as WCAG-focused coursework if the role emphasizes inclusive design or design systems."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome.",
-        "Prepare case studies that connect user evidence to product decisions and measurable outcomes."
-      ],
-      "status_badge": "Repeated high match",
-      "first_seen": "2026-09-07",
-      "last_seen": "2026-10-05",
-      "status": "Still open"
-    }
-  ],
-  "jobs": [
-    {
-      "title": "Senior Engineer, Cybersecurity Manager",
-      "company": "DESAY SV AUTOMOTIVE SINGAPORE PTE. LTD.",
-      "location": "D22 Jurong, Jurong Island, Tuas",
-      "url": "https://www.mycareersfuture.gov.sg/job/engineering/senior-engineer-cybersecurity-manager-desay-sv-automotive-singapore-806677632dab4aaa7d3eebdcaa4246f0",
-      "source": "MyCareersFuture",
-      "published_at": "2026-10-02",
-      "summary": "Position Overview We are seeking an experienced Cybersecurity Manager to join our Vehicle Security team in Singapore. This role owns cybersecurity at both the system and the project level for vehicle, leading system-level security design from requirements and architecture through to software, and acting as the account… Categories: Engineering Employment: Fu…",
-      "tags": [
-        "Cybersecurity / Trust",
-        "Security",
-        "Cybersecurity"
-      ],
-      "score": 80,
-      "matched_profiles": [
-        "Cybersecurity / Trust"
-      ],
-      "why_match": "Matches Cybersecurity / Trust; title relevance 50/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +28.",
-      "next_action": "Shortlist: verify the posting is still open, then tailor your application around Cybersecurity / Trust.",
-      "skillsets_to_build": [
-        "Threat modeling, secure design review, exploitability triage, incident response, detection, and engineering-ready remediation."
-      ],
-      "certifications_to_consider": [
-        "Choose role-aligned depth: OSCP/OSWE for offensive roles, CSSLP for secure SDLC, CISSP/CISM for leadership, or cloud security specialty for platform roles."
-      ],
-      "learning_gaps": [
-        "Keep public-safe case studies that show risk, proof, mitigation, and verification without exposing private details."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Lead Platform Engineer IS-95630",
-      "company": "INFOGAIN SOLUTIONS PTE. LIMITED",
-      "location": "D01 Marina, Raffles Place, People's Park, Cecil",
-      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/lead-platform-engineer-is-95630-infogain-solutions-dd145a1dc6c27d4963f19ba44953d267",
-      "source": "MyCareersFuture",
-      "published_at": "2026-10-01",
-      "summary": "Role: Lead Platform andRelease Engineer Job Requisition Number: IS-95630 Job Level: L4 – more than10 years of relevant experience Location: Singapore Key Responsibilities: The Corporate Tooling teamwithin GMET is responsible for process automation, business processre-engineering and the delivery of technology solution… Categories: Banking and Finance Employ…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Product / Program Leadership",
-        "Lead"
-      ],
-      "score": 70,
-      "matched_profiles": [
-        "Software Engineering",
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Software Engineering, Product / Program Leadership; title relevance 50/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +18.",
-      "next_action": "Shortlist: verify the posting is still open, then tailor your application around Software Engineering, Product / Program Leadership.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Security & Observability Platform Engineer",
-      "company": "ACTIVATE INTERACTIVE PTE LTD",
-      "location": "D14 Geylang, Eunos",
-      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/security-observability-platform-engineer-activate-interactive-a9c576403d1c24dcc8cb668440060287",
-      "source": "MyCareersFuture",
-      "published_at": "2026-09-16",
-      "summary": "Activate Interactive Pte Ltd (“Activate”) is a leading technology consultancy headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remov… Categories: Information Technology Emp…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Cybersecurity / Trust",
-        "Security"
-      ],
-      "score": 63,
-      "matched_profiles": [
-        "Software Engineering",
-        "Cybersecurity / Trust"
-      ],
-      "why_match": "Matches Software Engineering, Cybersecurity / Trust; title relevance 25/100, profile relevance 36/100, location fit 100/100, freshness 82/100, source boost +18.",
-      "next_action": "Watch: verify the posting is still open, then tailor your application around Software Engineering, Cybersecurity / Trust.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Threat modeling, secure design review, exploitability triage, incident response, detection, and engineering-ready remediation."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Choose role-aligned depth: OSCP/OSWE for offensive roles, CSSLP for secure SDLC, CISSP/CISM for leadership, or cloud security specialty for platform roles."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Keep public-safe case studies that show risk, proof, mitigation, and verification without exposing private details."
-      ],
-      "status_badge": "Still open",
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-10-05",
-      "status": "Still open"
-    },
-    {
-      "title": "Data Platform Engineer",
-      "company": "GECO ASIA PTE. LTD.",
-      "location": "Islandwide",
-      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/data-platform-engineer-geco-asia-4188476f8feeb67be434fdfed659b0ae",
-      "source": "MyCareersFuture",
-      "published_at": "2026-09-23",
-      "summary": "Job Summary: Role: Data Platform Engineer Start: ASAP Duration: 12 Months Location: Singapore We are seeking an experienced Data Platform Engineer to design, build, optimize, and support modern analytics platforms and lakehouse solutions. You will play a key role in developing scalable data pipelines, optimizing distr… Categories: Information Technology Emp…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Data / Ai Engineering",
-        "Data Platform"
-      ],
-      "score": 63,
-      "matched_profiles": [
-        "Software Engineering",
-        "Data / AI Engineering"
-      ],
-      "why_match": "Matches Software Engineering, Data / AI Engineering; title relevance 25/100, profile relevance 36/100, location fit 100/100, freshness 82/100, source boost +18.",
-      "next_action": "Watch: verify the posting is still open, then tailor your application around Software Engineering, Data / AI Engineering.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Senior Data Platform Engineer (Ingest & Storage) – Contract",
-      "company": "PATHSOURCE CONSULTING PTE. LTD.",
-      "location": "D14 Geylang, Eunos",
-      "url": "https://www.mycareersfuture.gov.sg/job/engineering/senior-data-platform-engineer-%E2%80%93-contract-pathsource-consulting-2c43e2c19ce549f3b74fde580ab230c6",
-      "source": "MyCareersFuture",
-      "published_at": "2026-09-24",
-      "summary": "The client is a Singapore-based data consultancy seeking a hands-on Senior Infrastructure Engineer to deploy and operate the ingestion and distributed-storage layer of a large-scale on-premise data platform. This is an initial six-month contract, with the potential for extension or conversion to a permanent position b… Categories: Engineering, Information T…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Data / Ai Engineering",
-        "Data Platform"
-      ],
-      "score": 63,
-      "matched_profiles": [
-        "Software Engineering",
-        "Data / AI Engineering"
-      ],
-      "why_match": "Matches Software Engineering, Data / AI Engineering; title relevance 25/100, profile relevance 36/100, location fit 100/100, freshness 82/100, source boost +18.",
-      "next_action": "Watch: verify the posting is still open, then tailor your application around Software Engineering, Data / AI Engineering.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Senior Data Engineer, Data Platform, Singpass",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007476201?gh_jid=4007476201",
-      "source": "Greenhouse",
-      "published_at": "2026-10-05",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Data / Ai Engineering",
-        "Data Platform",
-        "Data Engineer",
-        "Product / Program Leadership",
-        "Lead"
-      ],
-      "score": 87,
-      "matched_profiles": [
-        "Software Engineering",
-        "Data / AI Engineering",
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Software Engineering, Data / AI Engineering, Product / Program Leadership; title relevance 25/100, profile relevance 72/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Data / AI Engineering, Product / Program Leadership.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs.",
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization.",
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence.",
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Lead / Senior Product Manager (MND)",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007426201?gh_jid=4007426201",
-      "source": "Greenhouse",
-      "published_at": "2026-10-01",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Lead"
-      ],
-      "score": 83,
-      "matched_profiles": [
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio)",
-      "company": "OKX",
-      "location": "Singapore, Singapore",
-      "url": "https://job-boards.greenhouse.io/okx/jobs/7988766003",
-      "source": "Greenhouse",
-      "published_at": "2026-10-05",
-      "summary": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking acc…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Principal"
-      ],
-      "score": 62,
-      "matched_profiles": [
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Product / Program Leadership; title relevance 50/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +10.",
-      "next_action": "Watch: verify the posting is still open, then tailor your application around Product / Program Leadership.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Lead / Senior Product Manager, Regulatory Licensing (NEA)",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4005215201?gh_jid=4005215201",
-      "source": "Greenhouse",
-      "published_at": "2026-09-28",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Lead"
-      ],
-      "score": 83,
-      "matched_profiles": [
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Lead Product Manager - Legal Case Management, Attorney-General's Chambers (AGC)",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007292201?gh_jid=4007292201",
-      "source": "Greenhouse",
-      "published_at": "2026-10-01",
-      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Lead"
-      ],
-      "score": 83,
-      "matched_profiles": [
-        "Product / Program Leadership"
-      ],
-      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
-      ],
-      "status_badge": "New this refresh",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "New"
-    },
-    {
-      "title": "Product Manager (Cybersecurity)",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004104201?gh_jid=4004104201",
-      "source": "Greenhouse",
-      "published_at": "2026-10-01",
-      "summary": "Position Overview We are seeking a Product Manager (formerly Business Analyst also would be considered) to drive user engagement and stakeholder management for our cybersecurity solutions, working closely with the lead Product/Programme Manager. This role is instrumental in shaping product strategy, understanding user needs, measuring product impact, and tr…",
-      "tags": [
-        "Product / Program Leadership",
-        "Product Manager",
-        "Strategy",
-        "Stakeholder",
-        "Cybersecurity / Trust",
-        "Cybersecurity"
-      ],
-      "score": 99,
-      "matched_profiles": [
-        "Product / Program Leadership",
-        "Cybersecurity / Trust"
-      ],
-      "why_match": "Matches Product / Program Leadership, Cybersecurity / Trust; title relevance 50/100, profile relevance 90/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership, Cybersecurity / Trust.",
-      "skillsets_to_build": [
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives.",
-        "Threat modeling, secure design review, exploitability triage, incident response, detection, and engineering-ready remediation."
-      ],
-      "certifications_to_consider": [
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary.",
-        "Choose role-aligned depth: OSCP/OSWE for offensive roles, CSSLP for secure SDLC, CISSP/CISM for leadership, or cloud security specialty for platform roles."
-      ],
-      "learning_gaps": [
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome.",
-        "Keep public-safe case studies that show risk, proof, mitigation, and verification without exposing private details."
-      ],
-      "status_badge": "Repeated high match",
-      "first_seen": "2026-06-08",
-      "last_seen": "2026-10-05",
-      "status": "Still open"
-    },
-    {
-      "title": "Principal / Lead Product Designer, TradeNet",
-      "company": "GovTech Singapore",
-      "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4001721201?gh_jid=4001721201",
-      "source": "Greenhouse",
-      "published_at": "2026-09-28",
-      "summary": "What the role is TradeNet is Singapore’s key platform that enables businesses to import, export, and move goods through one of the world’s busiest ports,currently supporting 970 Billion in annual trade revenue.. It connects traders, freight forwarders, customs officers, and multiple government agencies through a single, integrated system used for permit app…",
-      "tags": [
-        "Software Engineering",
-        "Platform",
-        "Product / Program Leadership",
-        "Principal",
-        "Lead",
-        "Design / Ux Research",
-        "Product Designer"
-      ],
-      "score": 97,
-      "matched_profiles": [
-        "Software Engineering",
-        "Product / Program Leadership",
-        "Design / UX Research"
-      ],
-      "why_match": "Matches Software Engineering, Product / Program Leadership, Design / UX Research; title relevance 75/100, profile relevance 72/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Product / Program Leadership, Design / UX Research.",
-      "skillsets_to_build": [
-        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
-        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives.",
-        "Portfolio storytelling, user research synthesis, interaction flows, design systems, accessibility, and product impact measurement."
-      ],
-      "certifications_to_consider": [
-        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
-        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary.",
-        "Accessibility training such as WCAG-focused coursework if the role emphasizes inclusive design or design systems."
-      ],
-      "learning_gaps": [
-        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
-        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome.",
-        "Prepare case studies that connect user evidence to product decisions and measurable outcomes."
-      ],
-      "status_badge": "Repeated high match",
-      "first_seen": "2026-09-07",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
       "status": "Still open"
     },
     {
@@ -871,7 +235,7 @@
       "location": "Singapore",
       "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004418201?gh_jid=4004418201",
       "source": "Greenhouse",
-      "published_at": "2026-09-28",
+      "published_at": "2026-10-08",
       "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
       "tags": [
         "Product / Program Leadership",
@@ -896,7 +260,7 @@
       ],
       "status_badge": "Repeated high match",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
       "status": "Still open"
     },
     {
@@ -905,7 +269,7 @@
       "location": "Singapore",
       "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4005100201?gh_jid=4005100201",
       "source": "Greenhouse",
-      "published_at": "2026-09-28",
+      "published_at": "2026-10-08",
       "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
       "tags": [
         "Product / Program Leadership",
@@ -930,41 +294,52 @@
       ],
       "status_badge": "Repeated high match",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
       "status": "Still open"
     },
     {
-      "title": "Senior / Lead (Technical) Product Manager (Product Strategy Office)",
+      "title": "Senior Data Engineer, Data Platform, Singpass",
       "company": "GovTech Singapore",
       "location": "Singapore",
-      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004416201?gh_jid=4004416201",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007476201?gh_jid=4007476201",
       "source": "Greenhouse",
-      "published_at": "2026-09-28",
+      "published_at": "2026-10-08",
       "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
       "tags": [
+        "Software Engineering",
+        "Platform",
+        "Data / Ai Engineering",
+        "Data Platform",
+        "Data Engineer",
         "Product / Program Leadership",
-        "Product Manager",
-        "Strategy",
         "Lead"
       ],
-      "score": 90,
+      "score": 87,
       "matched_profiles": [
+        "Software Engineering",
+        "Data / AI Engineering",
         "Product / Program Leadership"
       ],
-      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 54/100, location fit 100/100, freshness 100/100, source boost +26.",
-      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
+      "why_match": "Matches Software Engineering, Data / AI Engineering, Product / Program Leadership; title relevance 25/100, profile relevance 72/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Data / AI Engineering, Product / Program Leadership.",
       "skillsets_to_build": [
+        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
+        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs.",
         "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
       ],
       "certifications_to_consider": [
+        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
+        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization.",
         "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
       ],
       "learning_gaps": [
+        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
+        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence.",
         "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
       ],
       "status_badge": "Repeated high match",
-      "first_seen": "2026-06-29",
-      "last_seen": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
       "status": "Still open"
     },
     {
@@ -973,7 +348,7 @@
       "location": "Singapore",
       "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004429201?gh_jid=4004429201",
       "source": "Greenhouse",
-      "published_at": "2026-09-28",
+      "published_at": "2026-10-12",
       "summary": "GovTech is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrast…",
       "tags": [
         "Software Engineering",
@@ -1003,7 +378,7 @@
       ],
       "status_badge": "Repeated high match",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
       "status": "Still open"
     },
     {
@@ -1012,7 +387,7 @@
       "location": "Singapore",
       "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4003723201?gh_jid=4003723201",
       "source": "Greenhouse",
-      "published_at": "2026-09-28",
+      "published_at": "2026-10-08",
       "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
       "tags": [
         "Product / Program Leadership",
@@ -1037,7 +412,447 @@
       ],
       "status_badge": "Repeated high match",
       "first_seen": "2026-05-17",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "MIRAE ASSET SECURITIES (SINGAPORE) PTE. LTD.",
+      "location": "D01 Marina, Raffles Place, People's Park, Cecil",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/senior-data-engineer-mirae-asset-securities-348e36b174b62f9a2d44415ac61a5f11",
+      "source": "MyCareersFuture",
+      "published_at": "2026-09-17",
+      "summary": "About the Team Mirae Asset Securities (Singapore) Pte. Ltd. is hiring a Senior Data Engineer to support Mirae Asset group’s AI-driven global investment platform. The goal is to provide a stable platform covering a broad range of areas, from data to serving, built on a global infrastructure. About the Role We are looki… Categories: Banking and Finance, Infor…",
+      "tags": [
+        "Software Engineering",
+        "Platform",
+        "Data / Ai Engineering",
+        "Data Engineer"
+      ],
+      "score": 70,
+      "matched_profiles": [
+        "Software Engineering",
+        "Data / AI Engineering"
+      ],
+      "why_match": "Matches Software Engineering, Data / AI Engineering; title relevance 25/100, profile relevance 36/100, location fit 100/100, freshness 58/100, source boost +28.",
+      "next_action": "Shortlist: verify the posting is still open, then tailor your application around Software Engineering, Data / AI Engineering.",
+      "skillsets_to_build": [
+        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
+        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs."
+      ],
+      "certifications_to_consider": [
+        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
+        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization."
+      ],
+      "learning_gaps": [
+        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
+        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence."
+      ],
+      "status_badge": "New this refresh",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "New"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "OPUS IT SERVICES PTE LTD",
+      "location": "Islandwide",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-opus-services-4c76362728bd19dfcaf4365c2978dc6e",
+      "source": "MyCareersFuture",
+      "published_at": "2026-09-21",
+      "summary": "Employment type - 1-year contract (Renewable) Eligibility: Singaporean ONLY (require security clearance) Location: Ang Mo Kio Working Days/ Hours: Mon-Fri: 8.30am to 6pm Role Overview As a Data Engineer, you will design, build, and operate scalable, secure, and high-performance enterprise data platforms and ETL pipeli… Categories: Information Technology Emp…",
+      "tags": [
+        "Data / Ai Engineering",
+        "Data Platform",
+        "Data Engineer",
+        "Cybersecurity / Trust",
+        "Security"
+      ],
+      "score": 70,
+      "matched_profiles": [
+        "Data / AI Engineering",
+        "Cybersecurity / Trust"
+      ],
+      "why_match": "Matches Data / AI Engineering, Cybersecurity / Trust; title relevance 25/100, profile relevance 54/100, location fit 100/100, freshness 82/100, source boost +18.",
+      "next_action": "Shortlist: verify the posting is still open, then tailor your application around Data / AI Engineering, Cybersecurity / Trust.",
+      "skillsets_to_build": [
+        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs.",
+        "Threat modeling, secure design review, exploitability triage, incident response, detection, and engineering-ready remediation."
+      ],
+      "certifications_to_consider": [
+        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization.",
+        "Choose role-aligned depth: OSCP/OSWE for offensive roles, CSSLP for secure SDLC, CISSP/CISM for leadership, or cloud security specialty for platform roles."
+      ],
+      "learning_gaps": [
+        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence.",
+        "Keep public-safe case studies that show risk, proof, mitigation, and verification without exposing private details."
+      ],
+      "status_badge": "Still open",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Lead Data Engineer",
+      "company": "SIMPLIFYNEXT PTE. LTD.",
+      "location": "Islandwide",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/lead-data-engineer-simplifynext-d8b10375c748da809798bd6074c3a56f",
+      "source": "MyCareersFuture",
+      "published_at": "2026-10-01",
+      "summary": "SimplifyNext is a Singapore-headquartered digital engineering firm, with offices in Thailand and Malaysia, working across three converged areas: agentic AI, AI-enabled application modernisation, and intelligent automation. We bring strong business process consulting together with deep technology skills and modern deli… Categories: Consulting, Information Te…",
+      "tags": [
+        "Data / Ai Engineering",
+        "Data Engineer",
+        "Product / Program Leadership",
+        "Lead"
+      ],
+      "score": 68,
+      "matched_profiles": [
+        "Data / AI Engineering",
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Data / AI Engineering, Product / Program Leadership; title relevance 50/100, profile relevance 36/100, location fit 100/100, freshness 82/100, source boost +18.",
+      "next_action": "Shortlist: verify the posting is still open, then tailor your application around Data / AI Engineering, Product / Program Leadership.",
+      "skillsets_to_build": [
+        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs.",
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization.",
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence.",
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "New this refresh",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "New"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "AVENSYS CONSULTING PTE. LTD.",
+      "location": "D14 Geylang, Eunos",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/data-engineer-avensys-consulting-e82a66d6e5c27e8562da44b38d7a3ea2",
+      "source": "MyCareersFuture",
+      "published_at": "2026-10-02",
+      "summary": "Avensys is a reputed global IT professional services company headquartered in Singapore. Our service spectrum includes enterprise solution consulting, business intelligence, business process automation and managed services. Given our decade of success we have evolved to become one of the top trusted providers in Singa… Categories: Information Technology Emp…",
+      "tags": [
+        "Data / Ai Engineering",
+        "Data Engineer"
+      ],
+      "score": 56,
+      "matched_profiles": [
+        "Data / AI Engineering"
+      ],
+      "why_match": "Matches Data / AI Engineering; title relevance 25/100, profile relevance 18/100, location fit 100/100, freshness 82/100, source boost +18.",
+      "next_action": "Watch: verify the posting is still open, then tailor your application around Data / AI Engineering.",
+      "skillsets_to_build": [
+        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs."
+      ],
+      "certifications_to_consider": [
+        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization."
+      ],
+      "learning_gaps": [
+        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence."
+      ],
+      "status_badge": "Still open",
+      "first_seen": "2026-06-15",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "SIMPLIFYNEXT PTE. LTD.",
+      "location": "D12 Toa Payoh, Balestier, Serangoon",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/data-engineer-simplifynext-68130c0f217a2b6d467a8785689e7722",
+      "source": "MyCareersFuture",
+      "published_at": "2026-09-30",
+      "summary": "SimplifyNext is a Singapore-headquartered digital engineering firm, with offices in Thailand and Malaysia, working across three converged areas: agentic AI, AI-enabled application modernisation, and intelligent automation. We bring strong business process consulting together with deep technology skills and modern deli… Categories: Consulting, Information Te…",
+      "tags": [
+        "Data / Ai Engineering",
+        "Data Engineer"
+      ],
+      "score": 56,
+      "matched_profiles": [
+        "Data / AI Engineering"
+      ],
+      "why_match": "Matches Data / AI Engineering; title relevance 25/100, profile relevance 18/100, location fit 100/100, freshness 82/100, source boost +18.",
+      "next_action": "Watch: verify the posting is still open, then tailor your application around Data / AI Engineering.",
+      "skillsets_to_build": [
+        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs."
+      ],
+      "certifications_to_consider": [
+        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization."
+      ],
+      "learning_gaps": [
+        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence."
+      ],
+      "status_badge": "New this refresh",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "New"
+    },
+    {
+      "title": "Product Manager (Cybersecurity)",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004104201?gh_jid=4004104201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "Position Overview We are seeking a Product Manager (formerly Business Analyst also would be considered) to drive user engagement and stakeholder management for our cybersecurity solutions, working closely with the lead Product/Programme Manager. This role is instrumental in shaping product strategy, understanding user needs, measuring product impact, and tr…",
+      "tags": [
+        "Product / Program Leadership",
+        "Product Manager",
+        "Strategy",
+        "Stakeholder",
+        "Cybersecurity / Trust",
+        "Cybersecurity"
+      ],
+      "score": 99,
+      "matched_profiles": [
+        "Product / Program Leadership",
+        "Cybersecurity / Trust"
+      ],
+      "why_match": "Matches Product / Program Leadership, Cybersecurity / Trust; title relevance 50/100, profile relevance 90/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership, Cybersecurity / Trust.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives.",
+        "Threat modeling, secure design review, exploitability triage, incident response, detection, and engineering-ready remediation."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary.",
+        "Choose role-aligned depth: OSCP/OSWE for offensive roles, CSSLP for secure SDLC, CISSP/CISM for leadership, or cloud security specialty for platform roles."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome.",
+        "Keep public-safe case studies that show risk, proof, mitigation, and verification without exposing private details."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-06-08",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Principal / Lead Product Manager, Solutions Management (Product Strategy Office)",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004418201?gh_jid=4004418201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
+      "tags": [
+        "Product / Program Leadership",
+        "Product Manager",
+        "Strategy",
+        "Principal"
+      ],
+      "score": 97,
+      "matched_profiles": [
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 72/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio)",
+      "company": "OKX",
+      "location": "Singapore, Singapore",
+      "url": "https://job-boards.greenhouse.io/okx/jobs/7988766003",
+      "source": "Greenhouse",
+      "published_at": "2026-10-05",
+      "summary": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking acc…",
+      "tags": [
+        "Product / Program Leadership",
+        "Product Manager",
+        "Principal"
+      ],
+      "score": 62,
+      "matched_profiles": [
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Product / Program Leadership; title relevance 50/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +10.",
+      "next_action": "Watch: verify the posting is still open, then tailor your application around Product / Program Leadership.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Still open",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Principal Product Manager, Developer Productivity",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4005100201?gh_jid=4005100201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
+      "tags": [
+        "Product / Program Leadership",
+        "Product Manager",
+        "Principal",
+        "Lead"
+      ],
+      "score": 90,
+      "matched_profiles": [
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 54/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Senior Data Engineer, Data Platform, Singpass",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007476201?gh_jid=4007476201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
+      "tags": [
+        "Software Engineering",
+        "Platform",
+        "Data / Ai Engineering",
+        "Data Platform",
+        "Data Engineer",
+        "Product / Program Leadership",
+        "Lead"
+      ],
+      "score": 87,
+      "matched_profiles": [
+        "Software Engineering",
+        "Data / AI Engineering",
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Software Engineering, Data / AI Engineering, Product / Program Leadership; title relevance 25/100, profile relevance 72/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Data / AI Engineering, Product / Program Leadership.",
+      "skillsets_to_build": [
+        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
+        "Data pipelines, model evaluation, feature stores or embeddings, deployment, monitoring, and cost/performance tradeoffs.",
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
+        "Cloud data/ML engineer certification aligned to the employer stack, or a hands-on MLOps specialization.",
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
+        "Publish an end-to-end data or ML project with ingestion, evaluation, deployment, and monitoring evidence.",
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Principal / Software Engineer, Developer Productivity & Services Programme",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004429201?gh_jid=4004429201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-12",
+      "summary": "GovTech is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrast…",
+      "tags": [
+        "Software Engineering",
+        "Software Engineer",
+        "Product / Program Leadership",
+        "Principal",
+        "Lead"
+      ],
+      "score": 85,
+      "matched_profiles": [
+        "Software Engineering",
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Software Engineering, Product / Program Leadership; title relevance 50/100, profile relevance 54/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Product / Program Leadership.",
+      "skillsets_to_build": [
+        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Principal Product Manager",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4003723201?gh_jid=4003723201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
+      "tags": [
+        "Product / Program Leadership",
+        "Product Manager",
+        "Principal",
+        "Lead"
+      ],
+      "score": 85,
+      "matched_profiles": [
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Product / Program Leadership; title relevance 50/100, profile relevance 54/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-10-12",
       "status": "Still open"
     },
     {
@@ -1046,7 +861,7 @@
       "location": "Singapore",
       "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4006768201?gh_jid=4006768201",
       "source": "Greenhouse",
-      "published_at": "2026-09-28",
+      "published_at": "2026-10-08",
       "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
       "tags": [
         "Product / Program Leadership",
@@ -1071,7 +886,189 @@
       ],
       "status_badge": "Repeated high match",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Product Manager, Platform.AI, AI Programme",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4001473201?gh_jid=4001473201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
+      "tags": [
+        "Software Engineering",
+        "Platform",
+        "Product / Program Leadership",
+        "Product Manager",
+        "Lead"
+      ],
+      "score": 85,
+      "matched_profiles": [
+        "Software Engineering",
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Software Engineering, Product / Program Leadership; title relevance 50/100, profile relevance 54/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Product / Program Leadership.",
+      "skillsets_to_build": [
+        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Technical Product Manager (Platform)",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4006770201?gh_jid=4006770201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sma…",
+      "tags": [
+        "Software Engineering",
+        "Platform",
+        "Product / Program Leadership",
+        "Product Manager",
+        "Lead"
+      ],
+      "score": 85,
+      "matched_profiles": [
+        "Software Engineering",
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Software Engineering, Product / Program Leadership; title relevance 50/100, profile relevance 54/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Software Engineering, Product / Program Leadership.",
+      "skillsets_to_build": [
+        "System design, production debugging, API design, automated testing, and maintainable service ownership.",
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Cloud practitioner or associate developer certification only if the target role is cloud-heavy; otherwise prioritize a production-quality portfolio project.",
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Show one shipped project with tests, observability, deployment notes, and clear tradeoff decisions.",
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Lead / Product Manager (ACRA)",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4001737201?gh_jid=4001737201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "GovTech is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrast…",
+      "tags": [
+        "Product / Program Leadership",
+        "Product Manager",
+        "Lead"
+      ],
+      "score": 83,
+      "matched_profiles": [
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Lead / Senior Product Designer, BizSG",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4007046201?gh_jid=4007046201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "GovTech is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrast…",
+      "tags": [
+        "Product / Program Leadership",
+        "Lead",
+        "Design / Ux Research",
+        "Product Designer"
+      ],
+      "score": 83,
+      "matched_profiles": [
+        "Product / Program Leadership",
+        "Design / UX Research"
+      ],
+      "why_match": "Matches Product / Program Leadership, Design / UX Research; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership, Design / UX Research.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives.",
+        "Portfolio storytelling, user research synthesis, interaction flows, design systems, accessibility, and product impact measurement."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary.",
+        "Accessibility training such as WCAG-focused coursework if the role emphasizes inclusive design or design systems."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome.",
+        "Prepare case studies that connect user evidence to product decisions and measurable outcomes."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-10-12",
+      "status": "Still open"
+    },
+    {
+      "title": "Lead / Senior Product Manager (Digital Accelerator Unit)",
+      "company": "GovTech Singapore",
+      "location": "Singapore",
+      "url": "https://jobs.careers.gov.sg/jobs/greenhouse/4004333201?gh_jid=4004333201",
+      "source": "Greenhouse",
+      "published_at": "2026-10-08",
+      "summary": "GovTech is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrast…",
+      "tags": [
+        "Product / Program Leadership",
+        "Product Manager",
+        "Lead"
+      ],
+      "score": 83,
+      "matched_profiles": [
+        "Product / Program Leadership"
+      ],
+      "why_match": "Matches Product / Program Leadership; title relevance 75/100, profile relevance 36/100, location fit 100/100, freshness 100/100, source boost +26.",
+      "next_action": "Prioritize: verify the posting is still open, then tailor your application around Product / Program Leadership.",
+      "skillsets_to_build": [
+        "Roadmap framing, customer discovery, prioritization, metrics, stakeholder management, and crisp execution narratives."
+      ],
+      "certifications_to_consider": [
+        "Pragmatic Institute, Reforge, or equivalent product strategy coursework if the role expects formal product leadership vocabulary."
+      ],
+      "learning_gaps": [
+        "Prepare two stories showing ambiguous problem framing, prioritization, tradeoffs, launch, and measured outcome."
+      ],
+      "status_badge": "Repeated high match",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-10-12",
       "status": "Still open"
     }
   ]
